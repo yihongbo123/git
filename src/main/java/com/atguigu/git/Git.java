@@ -15,6 +15,7 @@ public class Git {
 		
 		List list = new ArrayList<>();
 		list.add(1);
+		System.out.println(8888);
 		System.out.println(list.get(0) instanceof Integer);
 	}
 }
