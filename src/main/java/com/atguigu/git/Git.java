@@ -19,5 +19,8 @@ public class Git {
 		System.out.println("sdfsdf");
 		System.out.println("sdfffffffffffff");
 		System.out.println(list.get(0) instanceof Integer);
+		System.out.println(list.get(0) instanceof Integer);
+		System.out.println(list.get(0) instanceof Integer);
+		System.out.println(list.get(0) instanceof Integer);
 	}
 }
